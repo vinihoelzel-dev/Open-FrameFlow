@@ -1,0 +1,7 @@
+/home/vinny/Músicas/Repo/Open-FrameFlow/build/CMakeFiles/open-frameflow.dir
+/home/vinny/Músicas/Repo/Open-FrameFlow/build/CMakeFiles/edit_cache.dir
+/home/vinny/Músicas/Repo/Open-FrameFlow/build/CMakeFiles/rebuild_cache.dir
+/home/vinny/Músicas/Repo/Open-FrameFlow/build/CMakeFiles/list_install_components.dir
+/home/vinny/Músicas/Repo/Open-FrameFlow/build/CMakeFiles/install.dir
+/home/vinny/Músicas/Repo/Open-FrameFlow/build/CMakeFiles/install/local.dir
+/home/vinny/Músicas/Repo/Open-FrameFlow/build/CMakeFiles/install/strip.dir
